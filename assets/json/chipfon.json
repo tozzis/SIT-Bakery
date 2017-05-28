@@ -1,0 +1,49 @@
+{
+  "name": "Chipfon",
+  "detail": "We chipfon is dessert that soft , easy to eat , easy to carry , and and not expensive.",
+  "directory": "chipfon",
+  "taste": [
+    {
+      "name": "tsum",
+      "detail": "tsum taste is sweet.",
+      "cost": "110",
+      "img": "tsum.jpg"
+    },{
+      "name": "lemonpoppy",
+      "detail": "lemonpoppy taste is strange.",
+      "cost": "110",
+      "img": "lemonpoppy.jpg"
+    },{
+      "name": "orange",
+      "detail": "orange taste is sweet and sour.",
+      "cost": "110",
+      "img": "orange.jpg"
+    },{
+      "name": "pandan",
+      "detail": "pandan taste is very weet.",
+      "cost": "110",
+      "img": "pandan.jpg"
+    },{
+      "name": "pearlchocolate",
+      "detail": "pearlchocolate taste is sweet and a little bit bitter.",
+      "cost": "110",
+      "img": "pearlchocolate.jpg"
+    },{
+      "name": "strawberry",
+      "detail": "strawberry taste is sweet and sour.",
+      "cost": "110",
+      "img": "strawberry.jpg"
+    },{
+      "name": "rasberry",
+      "detail": "rasberry taste is sweet and sour.",
+      "cost": "140",
+      "img": "rasberry.jpg"
+    },{
+      "name": "chocolatemocha",
+      "detail": "chocolatemocha taste is sweet and bitter.",
+      "cost": "140",
+      "img": "chocolatemocha.jpg"
+    }
+  ],
+  "img": "crepecake-1.jpg"
+}

@@ -1,0 +1,38 @@
+﻿{
+  "name": "CrepCake",
+  "detail": "It is a sweet dessert to eat. Delicious crepe with creamy texture, sweet cream, overlapping layers and many colors. And a pour of water to eat. Not expensive too.",
+  "directory": "crepcake",
+  "taste": [
+    {
+      "name": "greentea",
+      "detail": "This green tea crepe crepe is a creamy green crepe dough mix with fresh creamy white creamy and very green tea.",
+      "cost": "120",
+      "img": "greentea.jpg"
+    },{
+      "name": "chocolate",
+      "detail": "Chocolate cake crepes are crepe cakes with chocolate filling. Mellow taste Bitter because it is a real chocolate",
+      "cost": "120",
+      "img": "chocolate.jpg"
+    },{
+      "name": "stawberry",
+      "detail": "Crepe cake cake strawberry It is a regular crepe cake. But there is a strawberry sauce made from genuine strawberry. The taste is sour, sweet, mixed together.",
+      "cost": "120",
+      "img": "stawberry.jpg"
+    },{
+      "name": "rainbow",
+      "detail": "Rainbow Cake Crepe is a crepe cake with water coloring to help decorate the various colors. Then topped with strawberry sauce will add more delicious and colorful colors as well.",
+      "cost": "150",
+      "img": "rainbow.png"
+    },{
+      "name": "nutella",
+      "detail": "Crepe nutella crepe flavors of intense chocolate. By the way, the nutella chocolate comes in to make with flour. Makes it softer and smoother.",
+      "cost": "150",
+      "img": "nutella.jpg"
+    },{
+      "name": "healthy",
+      "detail": "Crepe Cake is a crepe cake that is suitable for people who like to eat healthy. It is made from plants that have low calorie benefits but have many nutrients.",
+      "cost": "180",
+      "img": "healthy.jpg"
+    }
+  ]
+}

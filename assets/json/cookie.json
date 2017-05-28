@@ -1,0 +1,38 @@
+{
+  "name": "Cookies",
+  "detail": " is a baked or cooked good that is small, flat and sweet. It usually contains flour, sugar and some type of oil or fat. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc. In most English-speaking countries except for the US and Canada, crisp cookies are called biscuits. Chewier biscuits are sometimes called cookies even in the UK. Some cookies may also be named by their shape, such as date squares or bars.",
+  "directory": "cookie",
+  "taste": [
+    {
+      "name": "chocolatechip",
+      "detail": "This famous classic American cookie is a treat no matter what the age or occasion. Enjoy it with a glass of cold milk.",
+      "cost": "80",
+      "img": "chocolatechip.jpg"
+    },{
+      "name": "cinnamon",
+      "detail": "A common dessert in North America and Northern Europe. Cinnamon Roll can be compared to Honey Bread. This is part of the donut family dessert. Cinnamon Roll was invented in Sweden in the so-called kanelbulle (literally: \"cinnamon bun\"). Cinnamon Roll contains yeast rolls. And sprinkle the mixture between cinnamon and sugar. (And raisins or chopped grapes in some cases) above the thin butter layer when rolling the dough into sheets. Then cut into sections and bake cinnamon rolls often sprinkled with sugar, cream, sprinkle dessert frequently",
+      "cost": "80",
+      "img": "cinnamon.jpg"
+    },{
+      "name": "frostedsugar",
+      "detail": " is a cookie with main ingredients like sugar, flour, butter, eggs, vanilla, and either baking powder or baking soda.[1] Sugar cookies may be formed by hand or rolled and cut into shapes. They are commonly decorated with frosting, sprinkles, or a combination of both. Decorative shapes and figures can be cut into the spread dough using a cookie cutter. In North America, sugar cookies are popular during the holidays of Christmas, Halloween, and Hannukah",
+      "cost": "100",
+      "img": "frostedsugar.jpg"
+    },{
+      "name": "healthy",
+      "detail": "It is a health-focused cookie. The taste is not as good as ordinary cookies. But ensure that you eat healthy then.",
+      "cost": "100",
+      "img": "healthy.jpg"
+    },{
+      "name": "m&m",
+      "detail": "It is a cookie that uses m&m as a main ingredient. Sweet taste is good.",
+      "cost": "100",
+      "img": "m&m.jpg"
+    },{
+      "name": "maxresdefault",
+      "detail": "Cookies or biscuits may be mass-produced in factories, made in small bakeries or home-made. Biscuit or cookie variants include sandwich biscuits, such as Custard creams, Jammie Dodgers, Bourbons and Oreos, with marshmallow or jam filling and sometimes dipped in chocolate or another sweet coating. Cookies are often served with beverages such as milk, coffee or tea. Factory-made cookies are sold in grocery stores, convenience stores and vending machines. Fresh-baked cookies are sold at bakeries and coffeehouses, with the latter ranging from small business-sized establishments to multinational corporations such as Starbucks",
+      "cost": "100",
+      "img": "maxresdefault.jpg"
+    }
+  ]
+}

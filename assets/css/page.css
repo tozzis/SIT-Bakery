@@ -1,0 +1,74 @@
+body {
+  overflow-x: hidden;
+  font-family: 'Athiti', sans-serif;
+}
+
+.first-page {
+  padding-top: 70px;
+}
+
+.white-text {
+  color: white;
+}
+
+.black-text {
+  color: black;
+}
+
+.valign-card-wrapper-offset .card {
+  margin-top: 30vh;
+}
+
+.valign-card-wrapper .card {
+  margin-top: 45vh;
+}
+
+.white-transparent {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.full-height {
+  height: 100vh;
+  width: 100%;
+  background: transparent;
+}
+
+.full-height-percent {
+  height: 100% !important;
+}
+
+.card-outline-white {
+  background-color: transparent;
+  border-color: #FFFFFF;
+}
+
+.card-outline-hidden {
+  background-color: transparent;
+  border-color: #FFFFFF;
+  opacity: 0;
+}
+
+.card-outline-black {
+  background-color: transparent;
+  border-color: #000000;
+}
+
+.clear-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:link, a:visited { 
+  text-decoration: none;
+  color: inherit;
+}
+
+a:link:active, a:visited:active { 
+  text-decoration: none;
+  color: inherit;
+}
+
+.show-dessert-img {
+  border-radius: 10px;
+  width: 100%;
+}

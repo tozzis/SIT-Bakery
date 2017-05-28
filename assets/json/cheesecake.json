@@ -1,0 +1,43 @@
+{
+  "name": "CheeseCake",
+  "detail": "is a sweet dessert consisting of one or more layers. The main, and thickest layer, consists of a mixture of soft, fresh cheese (typically cream cheese or ricotta), eggs, and sugar; if there is a bottom layer it often consists of a crust or base made from crushed cookies (or digestive biscuits), graham crackers, pastry, or sponge cake.[1] It may be baked or unbaked (usually refrigerated). Cheesecake is usually sweetened with sugar and may be flavored or topped with fruit, whipped cream, nuts, cookies, fruit sauce, or chocolate syrup. Cheesecake can be prepared in many flavors, such as strawberry, pumpkin, key lime, chocolate, Oreo, chestnut, or toffee.",
+  "directory": "cheesecake",
+  "taste": [
+    {
+      "name": "blueberry",
+      "detail": "Blueberry sauce is sweet and our soft cheesecake is never bored. The taste is delicious.",
+      "cost": "120",
+      "img": "blueberry.jpg"
+    },{
+      "name": "coconutraspberry",
+      "detail": "Raspberry sauce is sour with mellow cheesecake taste very well. Eat is not enough.",
+      "cost": "120",
+      "img": "coconutraspberry.jpeg"
+    },{
+      "name": "doublechocolate",
+      "detail": "The taste of the doublechocolate with CheeseCake is very tasty and delicious.",
+      "cost": "120",
+      "img": "doublechocolate.jpg"
+    },{
+      "name": "DulceDeLeche",
+      "detail": "Cheese Cake Recipe Charming with sweet taste of sweetened condensed milk. Undergoing heating Until it becomes caramel The name is Dulce de Leche, the main ingredient in the bakery. This cheesecake is served with sauces made of duodelesee as well. And colorful toffee sheets",
+      "cost": "120",
+      "img": "dulcedeLeche.jpg"
+    },{
+      "name": "matcha",
+      "detail": "Rip the cream cheese flavors with a combination of fine tea powder and cream cheese to a fruity Matcha Cheesecake. For green tea enthusiasts. Eat with raspberry sauce.",
+      "cost": "120",
+      "img": "matcha.png"
+    },{
+      "name": "rainbow",
+      "detail": "Cake with Rainbow Cheesecake Just scoop into the mouth to smell the cheese immediately. The part that we tried today is Pistachios. Sweet taste is good",
+      "cost": "120",
+      "img": "rainbow.jpg"
+    },{
+      "name": "strawberryshortcake",
+      "detail": "A little sweet cream cut a bit of strawberry flavor. And soft cakes are fit yum yum.",
+      "cost": "120",
+      "img": "strawberryshortcake.jpg"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿{
+  "name": "Brownies",
+  "detail": "A brownie is a square baked dessert. It is a cross between a cake and a soft cookie in texture[1] and comes in a variety of forms. Depending on its density, it may be either fudgy or cakey and may include chocolate chips, nuts, or other ingredients. A variation made with brown sugar and chocolate bits but without melted chocolate in the batter is called a blonde brownie or blondie. The brownie was developed in the United States at the end of the 19th century and popularized in the U.S. and Canada during the first half of the 20th century.",
+  "directory": "brownies",
+  "taste": [
+    {
+      "name": "banananut",
+      "detail": "These Banana Nut Brownies with browned butter frosting are nothing short of sinful! In my kitchen, browning bananas are a recurring eye sore. So, determined to put the bananas to good use, I’ve finally pinpointed my",
+      "cost": "110",
+      "img": "banananut.jpg"
+    },{
+      "name": "chocolatefudge",
+      "detail": "is a type of confectionery which is made by mixing sugar, butter and milk, heating it to the soft-ball stage at 240 °F (116 °C), and then beating the mixture while it cools so that it acquires a smooth, creamy consistency. Fruits, nuts, caramel, candies, and other flavors are sometimes added either inside or on top. It is often bought as a gift from a gift shop in tourist areas and attractions.",
+      "cost": "110",
+      "img": "chocolatefudge.jpeg"
+    },{
+      "name": "Espresso",
+      "detail": "This brownie taste like coffee , good for breakfast",
+      "cost": "110",
+      "img": "espresso.jpg"
+    },{
+      "name": "gingerbread",
+      "detail": "efers to a broad category of baked goods, typically flavored with ginger, cloves, nutmeg or cinnamon and sweetened with honey, sugar or molasses. Gingerbread foods vary, ranging from a soft, moist loaf cake to something close to a ginger biscuit.[",
+      "cost": "110",
+      "img": "gingerbread.jpeg"
+    },{
+      "name": "tripledecker",
+      "detail": "Just like A Rose by any other Name will still Smell as Sweet… these brownies will still be as sweet no matter what name you call them! By no means are these Brownies healthy. No, they are sinful and fatty and loaded with so much deliciously overly-chocolate flavors that you might go into a Chocolate Covered Sugar-induced Coma! As long as you are not watching what you eat and love your sweets, these brownies as for you! If you are watching your diet, luckily at least these things get cut small.",
+      "cost": "110",
+      "img": "tripledecker.jpg"
+    },{
+      "name": "rasberry",
+      "detail": "Squidgy and super moreish, these gorgeous foolproof fruity chocolate bakes will be snapped up in seconds",
+      "cost": "110",
+      "img": "rasberry.jpg"
+    },{
+      "name": "scaredycat",
+      "detail": "These peppermint candy-topped Halloween brownies are some adorable chocolaty treats, thanks to the cute and easy cat decorations used to finish them off.",
+      "cost": "140",
+      "img": "scaredycat.jpg"
+    },{
+      "name": "almond",
+      "detail": "Sweet, decadent and ultra-fudgy, these almond flour brownies are sinfully delicious. Made with only a few simple ingredients, you'll never believe these brownies are free of both gluten and grains!",
+      "cost": "140",
+      "img": "almond.jpg"
+    }
+  ]
+}

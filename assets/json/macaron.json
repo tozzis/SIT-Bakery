@@ -1,0 +1,38 @@
+{
+  "name": "Macaron",
+  "detail": "is a sweet meringue-based confection made with egg white, icing sugar, granulated sugar, almond powder or ground almond, and food colouring. The macaron commonly consists of a ganache, buttercream or jam filling sandwiched between two cookies. The name is derived from the Italian word macarone, maccarone or maccherone, the meringue. The confection is characterized by a smooth squared top, a ruffled circumference (referred to as the \"foot\" or \"pied\"), and a flat base. It is mildly moist and easily melts in the mouth. Macarons can be found in a wide variety of flavors that range from the traditional (raspberry, chocolate) to the new (foie gras, matcha).",
+  "directory": "macaron",
+  "taste": [
+    {
+      "name": "coffee",
+      "detail": "It is suitable for those who like to drink coffee is a strong flavor, which taste of caramel is good for coffee. Delicious to eat",
+      "cost": "90",
+      "img": "coffee.jpg"
+    },{
+      "name": "chocolate",
+      "detail": "Treat people like chocolates constantly with chocolate and then get a full concentration of chocolate. For people who like chocolate very much.",
+      "cost": "90",
+      "img": "chocolate.jpg"
+    },{
+      "name": "lemon",
+      "detail": "Delicious taste, do not tell anyone really bite, then have to close their eyes for a few seconds back lemon taste to try.",
+      "cost": "90",
+      "img": "lemon.jpg"
+    },{
+      "name": "strawberry",
+      "detail": "The taste is very tasty, sour taste",
+      "cost": "90",
+      "img": "strawberry.jpg"
+    },{
+      "name": "butterpopcorn",
+      "detail": "The taste is delicious, exotic, delicious to try is a very sweet taste very much.",
+      "cost": "110",
+      "img": "butterpopcorn.jpg"
+    },{
+      "name": "rasberry",
+      "detail": "The taste is very tasty, sour taste, which is perfectly matched to eat.",
+      "cost": "110",
+      "img": "rasberry.jpg"
+    }
+  ]
+}
